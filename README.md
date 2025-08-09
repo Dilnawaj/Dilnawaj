@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dilnawaj
 
-I am a **Full Stack Developer (Java Spring Boot+React ) ** with 4+ years of experience building **scalable, secure, and high-performance web applications**.  
+I am a **Full Stack Developer (Java Spring Boot+React )** with 4+ years of experience building **scalable, secure, and high-performance web applications**.  
 I love designing systems that are clean, maintainable, and impactful.
 
 ---
