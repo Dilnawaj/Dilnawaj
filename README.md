@@ -22,10 +22,9 @@ I love designing systems that are clean, maintainable, and impactful.
 ---
 
 ### 🛠 Languages and Tools:
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,junit,postman,swagger,kafka,rabbitmq,redis,mysql,postgresql,oracle,mongodb,aws,docker,kubernetes,nginx,linux,git,github,gitlab,bitbucket,html,css,bootstrap,js,ts,react,redux,nodejs,express,figma,vscode,eclipse,intellij,jenkins,selenium&perline=10" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,postman,kafka,rabbitmq,redis,mysql,postgresql,mongodb,aws,docker,kubernetes,nginx,linux,git,github,gitlab,bitbucket,html,css,bootstrap,js,ts,react,redux,nodejs,express,figma,vscode,eclipse,intellij,jenkins,selenium&perline=10" />
 </p>
-
 
 ---
 
