@@ -24,18 +24,32 @@ I love designing systems that are clean, maintainable, and impactful.
 ### 🚀 Featured Projects
 
 #### 🗳 E-Voting Application
-A complete **microservices-based** voting system using **Spring Boot, Kafka, React.js**, and **PostgreSQL**.  
-- Real-time vote processing with Kafka.
-- Secure authentication for voters and admins.
-- Live voting analytics dashboard.  
+A highly scalable **microservices-based** e-voting system ensuring secure, real-time voting and result tracking.  
+- Architected **Microservices** (Voter, Candidate, Election Commission, Party) using **Spring Boot**, **MySQL**, **SMTP**, and **HazelCast cache** with **Kafka-based** event handling.  
+- Developed responsive frontend using **React.js**, **Context API**, **Bootstrap**, and **HTML** for seamless user experience.  
+- Implemented **Axios** for secure API calls and **Spring Cloud** with Eureka for dynamic service discovery.  
+- Utilized **API Gateway** for routing, **Feign clients** for inter-service communication, and **Resilience4j** for fault tolerance.  
+- Ensured system is **scalable, maintainable, and highly available**.  
 🔗 [View Project](https://github.com/Dilnawaj/E-Voting-Application)
 
 #### 📝 Blogger Application
-A large-scale blogging platform built with **Spring Boot, React.js**, and **MySQL/PostgreSQL**.  
-- User authentication & role-based access control.
-- Create, edit, and manage blogs with rich text editor.
-- Comment system and SEO-friendly URLs.  
+A feature-rich blogging platform designed for high user engagement and performance.  
+- Engineered a **full-stack application** enabling unlimited content posting for bloggers.  
+- Implemented user functionalities: **download, subscribe, comment, share, like/dislike, save**.  
+- Frontend developed with **React.js**, **JavaScript**, **HTML**, **Redux Toolkit**, and **Bootstrap** for responsiveness.  
+- Used **Toastify** to display attractive user notifications.  
+- Backend powered by **Java**, **Spring Boot**, **MySQL**, **Redis**, **Swagger**, and **JWT** for secure authentication and performance optimization.  
 🔗 [View Project](https://github.com/Dilnawaj/blogger)
+
+#### 📂 DataCourier App
+A robust file retrieval and sharing system that integrates with **BombitUp** for enhanced functionality.  
+- Retrieve files in multiple formats from any computer.  
+- Instant email notifications for file delivery.  
+- Backend deployed on **AWS Elastic Beanstalk** with database hosted on **AWS RDS**.  
+- Implemented **CI/CD pipeline** using AWS CodePipeline.  
+- Frontend hosted on **Vercel** for global availability.  
+- Backend built with **Java, Spring, Redis, Swagger**; Frontend built with **React.js**.  
+- Enabled efficient file processing, email notifications, and comprehensive API management.  
 
 ---
 
