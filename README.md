@@ -21,6 +21,13 @@ I love designing systems that are clean, maintainable, and impactful.
 
 ---
 
+### 🛠 Languages and Tools:
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,spring,react,postgresql,mysql,redis,aws,kafka,git,github,html,css,bootstrap,javascript,typescript,redux,nodejs,express,docker,kubernetes,figma,nginx,linux,vscode,eclipse,postman,swagger&perline=12" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🗳 E-Voting Application
@@ -74,5 +81,3 @@ A robust file retrieval and sharing system that integrates with **BombitUp** for
 
 ### 👀 Profile Views
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dilnawaj&color=blue)
-
----
